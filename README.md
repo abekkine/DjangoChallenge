@@ -8,6 +8,7 @@ Bu açıklama dokümanı, aşağıdaki bölümlerden meydana gelmektedir:
 - **Portal**, django çatısı kullanılarak geliştirilecek portal ile ilgili özellikleri tanımlamaktadır.
 - **Kurallar**, geliştirme faaliyeti sırasında uyulması gereken kural ve prensipleri özetlemektedir,
 - **Değer Katıcı Nitelikler**, geliştirilen üründe bulunması halinde proje değerini artıracak olup, daha ileri teknikler gerektirmeleri itibarı ile ayrı tutulmuş özellikleri tanımlamaktadır.
+- **Öneriler ve Kaynaklar**, geliştirme sırasında faydalı olacağı düşünülen açıklama ve bilgilerden oluşmaktadır.
 
 ## Amaç
 
